@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Users/Josh/Documents/Development/McKinley_Lab3/Student.h
+string
+-
+
+G:/Users/Josh/Documents/Development/McKinley_Lab3/studentRoll.cpp
+string
+-
+studentRoll.h
+G:/Users/Josh/Documents/Development/McKinley_Lab3/studentRoll.h
+
+G:/Users/Josh/Documents/Development/McKinley_Lab3/studentRoll.h
+string
+-
+Student.h
+G:/Users/Josh/Documents/Development/McKinley_Lab3/Student.h
+
